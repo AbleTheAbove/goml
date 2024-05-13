@@ -144,7 +144,7 @@ If you need extra spaces you can use `\` to prefix space so it will not get trun
 
 Extension for syntax highlighting can be found [here](https://marketplace.visualstudio.com/items?itemName=jakubDoka.goml-lang)
 
-# goss
+# gross
 
 goss is css like "language" that plays well with goml. Syntax is almost identical to css, just bit more strict yet flexible where it needs to be.
 
